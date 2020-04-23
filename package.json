@@ -1,0 +1,22 @@
+{
+  "name": "release-it-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasantonelli/release-it-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasantonelli/release-it-test/issues"
+  },
+  "homepage": "https://github.com/jonasantonelli/release-it-test#readme",
+  "devDependencies": {
+    "release-it": "^13.5.5"
+  }
+}
