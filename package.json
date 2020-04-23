@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "release-it"
+    "release": "release-it",
+    "release:change": "beachball change",
+    "release:check": "beachball check"
   },
   "repository": {
     "type": "git",
