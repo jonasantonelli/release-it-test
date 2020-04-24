@@ -1,0 +1,20 @@
+{
+  "name": "pk2",
+  "entries": [
+    {
+      "date": "Fri, 24 Apr 2020 14:40:43 GMT",
+      "tag": "pk2_v0.0.1",
+      "version": "0.0.1",
+      "comments": {
+        "patch": [
+          {
+            "comment": "add lerna, beachball and new packages",
+            "author": "jonas.antonelli@gmail.com",
+            "commit": "f03940e3a3dba96052d4c9db827cd9dfdb880435",
+            "package": "pk2"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "release-it-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "release-it": "^13.5.5"
   },
   "dependencies": {
-    "pk1": "file:packages/pk1",
-    "pk2": "file:packages/pk2"
+    "pk1": "0.0.1",
+    "pk2": "0.0.1"
   }
 }
