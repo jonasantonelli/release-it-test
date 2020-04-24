@@ -6,7 +6,8 @@
   "scripts": {
     "release": "release-it",
     "release:change": "beachball change",
-    "release:check": "beachball check"
+    "release:check": "beachball check",
+    "release:publish": "beachball publish"
   },
   "repository": {
     "type": "git",
