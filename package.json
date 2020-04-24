@@ -22,5 +22,9 @@
     "beachball": "^1.30.2",
     "lerna": "^3.20.2",
     "release-it": "^13.5.5"
+  },
+  "dependencies": {
+    "pk1": "file:packages/pk1",
+    "pk2": "file:packages/pk2"
   }
 }
