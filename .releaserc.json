@@ -1,0 +1,5 @@
+{
+  "branches": ["release"],
+  "ci": false,
+  "debug": true
+}
