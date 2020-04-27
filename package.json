@@ -1,6 +1,6 @@
 {
   "name": "release-it-test",
-  private: true,
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
