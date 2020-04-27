@@ -1,6 +1,6 @@
 {
-  "name": "release-it-test",
-  "version": "1.0.0",
+  "name": "@jonasantonelli/release-it-test",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "release:change": "beachball change",
     "release:check": "beachball check",
     "release:publish": "beachball publish",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
