@@ -1,6 +1,6 @@
 {
-  "name": "pk1",
-  "version": "0.0.0",
+  "name": "@jonasantonelli/pk1",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "Jonas Antonelli <jonas.antonelli@gmail.com>",
   "homepage": "https://github.com/jonasantonelli/release-it-test/tree/master/packages/pk1#readme",
@@ -22,5 +22,8 @@
   },
   "bugs": {
     "url": "https://github.com/jonasantonelli/release-it-test/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }

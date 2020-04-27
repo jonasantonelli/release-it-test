@@ -1,7 +1,10 @@
 'use strict';
 
+const pk2 = require('@jonasantonelli/pk2');
+
 module.exports = pk1;
 
 function pk1() {
-    console.log("test");
+  pk2();
+  console.log("package 1");
 }
