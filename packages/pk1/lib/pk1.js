@@ -3,5 +3,5 @@
 module.exports = pk1;
 
 function pk1() {
-    // TODO
+    console.log("test");
 }
